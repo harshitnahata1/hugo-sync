@@ -1,8 +1,8 @@
 #!/bin/bash
 cd /data/www/www.goodmemory.cc/goodmemory.cc
 
-git config --global user.name "hiproz"
-git config --global user.email hiproz@gmail.com
+git config --global user.name "harshitnahata1"
+git config --global user.email "harshitnahata1@gmail.com"
 
 git add -A
 echo "git add done"
